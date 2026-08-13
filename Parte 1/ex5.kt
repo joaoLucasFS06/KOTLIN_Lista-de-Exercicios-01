@@ -1,0 +1,1 @@
+fun tamanhoSeguro(texto: String?): Int = texto?.length ?: 0
