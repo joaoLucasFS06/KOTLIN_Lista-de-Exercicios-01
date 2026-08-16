@@ -1,0 +1,9 @@
+### MINHA PREVISÃO
+10
+15
+20
+
+### CORRETO
+10
+15
+20
