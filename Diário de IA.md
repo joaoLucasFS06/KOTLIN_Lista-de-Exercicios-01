@@ -1,5 +1,5 @@
 
-## ENTRADA 1
+# ENTRADA 1
 ### PERGUNTA
 - Como descobrir o tipo de dado de uma variável em Kotlin.
 ### RESPOSTA
@@ -10,7 +10,7 @@
 - Apenas adicionei `println(nome_da_var::class)` para descobrir se eu tinha acertado os tipos.
 
 
-## ENTRADA 2
+# ENTRADA 2
 ### PERGUNTA
 - O que é o operador `!!`, e qual é o problema de usar ele nesse código em específico?
 ### RESPOSTA
@@ -21,7 +21,7 @@
 - Apenas troquei o `!!` por `?`, visto que o valor é nulo.
 
 
-## ENTRADA 3
+# ENTRADA 3
 ### PERGUNTA
 - O que é lambda e qual é sua relação com este exercício?
 ### RESPOSTA
